@@ -1,0 +1,28 @@
+{
+    "name": "RpDev.Scope",
+    "rootNamespace": "RpDev.Scope",
+    "references": [
+        "VContainer",
+        "RpDev.Services",
+        "RpDev.Services.AssetProvider",
+        "RpDev.Services.AudioService",
+        "RpDev.Audio",
+        "RpDev.Services.GenericFactories",
+        "RpDev.Di.Installer.VContainer",
+        "RpDev.Bootstrap",
+        "RpDev.Gameplay",
+        "RpDev.AppCore",
+        "RpDev.UserData",
+        "RpDev.Level",
+        "RpDev.Level.Installer"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

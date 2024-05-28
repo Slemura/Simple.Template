@@ -1,0 +1,23 @@
+{
+    "name": "RpDev.Gameplay.UI",
+    "rootNamespace": "RpDev.Gameplay.UI",
+    "references": [
+        "Unity.TextMeshPro",
+        "DOTween.Modules",
+        "UniTask",
+        "RpDev.Services.GenericFactories",
+        "RpDev.Gameplay",
+        "RpDev.Common.UI",
+        "RpDev.Services.UISystem",
+        "VContainer"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

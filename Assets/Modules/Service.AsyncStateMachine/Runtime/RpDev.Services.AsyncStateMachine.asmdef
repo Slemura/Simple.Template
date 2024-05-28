@@ -1,0 +1,19 @@
+{
+    "name": "RpDev.Services.AsyncStateMachine",
+    "rootNamespace": "RpDev.Services.AsyncStateMachine",
+    "references": [
+        "VContainer",
+        "UniTask",
+        "RpDev.Di.Installer.VContainer",
+        "RpDev.Services.GenericFactories"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

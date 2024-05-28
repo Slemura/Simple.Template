@@ -1,0 +1,21 @@
+{
+    "name": "RpDev.Bootstrap",
+    "rootNamespace": "RpDev.Bootstrap",
+    "references": [
+        "RpDev.Services.AsyncStateMachine",
+        "RpDev.Services.AssetProvider",
+        "RpDev.Audio",
+        "UniTask",
+        "RpDev.RootStateHandler",
+        "RpDev.Services.UISystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

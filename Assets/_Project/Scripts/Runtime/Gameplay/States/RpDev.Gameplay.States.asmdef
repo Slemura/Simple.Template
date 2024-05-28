@@ -1,0 +1,26 @@
+{
+    "name": "RpDev.Gameplay.States",
+    "rootNamespace": "",
+    "references": [
+        "RpDev.Services.UISystem",
+        "RpDev.RootStateHandler",
+        "RpDev.Gameplay.UI",
+        "RpDev.Gameplay.States.Payload",
+        "UniTask",
+        "RpDev.Services.AsyncStateMachine",
+        "RpDev.Audio",
+        "VContainer",
+        "RpDev.Gameplay",
+        "RpDev.UserData",
+        "RpDev.Level"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
