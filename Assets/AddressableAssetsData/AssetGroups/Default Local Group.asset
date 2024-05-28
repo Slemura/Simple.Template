@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 14897d8ecc27f734b9886520495aaa48
+  m_SerializeEntries:
+  - m_GUID: d8eadd9fc421a5d4c903b5f15c099704
+    m_Address: Main Menu Screen
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui screen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5db3b68cd458dbe4da7699a26c8ca5bd
+    m_Address: Game Over Screen
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui screen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94277fb46b5660e45a04f2e4edf723cb
+    m_Address: GamePlay Screen
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui screen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 539ed73f14c5df040aae6813de035fd1
+    m_Address: AudioPackLibrary
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db0b99acd74295e40a1131cd4f3ac989
+    m_Address: UIAtlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2bfeb93e8ab15db4a8b0d119948eab29
+    m_Address: WinScreen
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui screen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 881b2bf258ab13c4b92b274bde1332af
+    m_Address: Assets/_Project/Prefabs/UI/Screens/Loading Screen.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae6d63435e850424e8e53195aa76ccd8
+    m_Address: Levels
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: fcce25a37b70a1649bfee7eab6a247a0, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c4464ff8c6729214b9c290bbb0646ccf, type: 2}
+    - {fileID: 11400000, guid: cf30bb782b5e82343a5089fb12314995, type: 2}

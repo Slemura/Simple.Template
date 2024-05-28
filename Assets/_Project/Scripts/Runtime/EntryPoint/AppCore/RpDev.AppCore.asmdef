@@ -1,0 +1,25 @@
+{
+    "name": "RpDev.AppCore",
+    "rootNamespace": "RpDev.AppCore",
+    "references": [
+        "UniTask",
+        "RpDev.Gameplay",
+        "RpDev.Services.AsyncStateMachine",
+        "VContainer",
+        "RpDev.Di.Installer.VContainer",
+        "RpDev.RootStateHandler",
+        "RpDev.EntryStates",
+        "RpDev.Bootstrap",
+        "RpDev.Gameplay.States.Payload",
+        "RpDev.Gameplay.States"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

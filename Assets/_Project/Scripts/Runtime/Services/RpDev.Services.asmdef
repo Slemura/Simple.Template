@@ -1,0 +1,20 @@
+{
+    "name": "RpDev.Services",
+    "rootNamespace": "RpDev.Services",
+    "references": [
+        "UniTask",
+        "VContainer",
+        "RpDev.Services.Preferences",
+        "RpDev.Services.AudioService",
+        "RpDev.UtilitiesAndExtensions"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RpDev.Audio",
+    "rootNamespace": "RpDev.Audio",
+    "references": [
+        "RpDev.Services.AudioService",
+        "RpDev.Services.Preferences",
+        "VContainer",
+        "RpDev.UtilitiesAndExtensions",
+        "RpDev.Services"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

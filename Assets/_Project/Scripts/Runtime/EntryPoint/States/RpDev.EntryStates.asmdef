@@ -1,0 +1,23 @@
+{
+    "name": "RpDev.EntryStates",
+    "rootNamespace": "RpDev.EntryStates",
+    "references": [
+        "RpDev.Services.AsyncStateMachine",
+        "RpDev.Services.UISystem",
+        "RpDev.RootStateHandler",
+        "UniTask",
+        "RpDev.Gameplay.States.Payload",
+        "RpDev.Bootstrap",
+        "RpDev.EntryPoint.UI",
+        "RpDev.Level"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

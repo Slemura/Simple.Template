@@ -1,0 +1,14 @@
+{
+    "name": "RpDev.Gameplay.States.Payload",
+    "rootNamespace": "RpDev.Gameplay.States.Payload",
+    "references": ["GUID:a74385d3d3b3a3b40b094bb59dd7a0be"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

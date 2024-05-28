@@ -1,0 +1,19 @@
+{
+    "name": "RpDev.Level.Bootstrap",
+    "rootNamespace": "",
+    "references": [
+        "GUID:21b3194ef9b6f9c478973e932ab61c01",
+        "GUID:a74385d3d3b3a3b40b094bb59dd7a0be",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:68f1c66599af4f0a8dfcd74fba3cb183"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

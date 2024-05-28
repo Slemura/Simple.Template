@@ -1,0 +1,22 @@
+{
+    "name": "RpDev.EntryPoint.UI",
+    "rootNamespace": "RpDev.EntryPoint.UI",
+    "references": [
+        "RpDev.Services.UISystem",
+        "VContainer",
+        "RpDev.Services.GenericFactories",
+        "Unity.TextMeshPro",
+        "DOTween.Modules",
+        "RpDev.Common.UI",
+        "RpDev.UserData"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

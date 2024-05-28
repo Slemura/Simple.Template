@@ -1,0 +1,19 @@
+{
+    "name": "RpDev.Level.Installer",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc",
+        "GUID:a74385d3d3b3a3b40b094bb59dd7a0be",
+        "GUID:93641d97f0d362548834fc2739fd55c7",
+        "GUID:072f6bc27205b9a4c880fa9b7bcfbddf"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
